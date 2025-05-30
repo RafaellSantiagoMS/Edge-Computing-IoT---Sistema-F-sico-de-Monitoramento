@@ -76,7 +76,7 @@ Desenvolver um sistema embarcado com Arduino que **monitore o nível de água** 
   - **Alarme sonoro**
   - Atualização no **display LCD**
 
-2.  Simulando a Chuva (Potenciômetro)
+4.  Simulando a Chuva (Potenciômetro)
 
 - O potenciômetro simula a **intensidade de chuva**.
 - Gire o botão para alterar a entrada analógica (A0):

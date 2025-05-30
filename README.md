@@ -2,6 +2,10 @@
 
 Projeto de Arduino preventivo para alagamentos em áreas urbanas.
 
+Integrantes 
+- Rafaell Santiago Martins da Silva, RM563486
+- Gustavo Neres dos Santos, RM561785
+
 ---
 
 ## 📌 Descrição do Problema
@@ -40,13 +44,6 @@ Desenvolver um sistema embarcado com Arduino que **monitore o nível de água** 
 | ✅ Normal   | Água < 10cm e chuva < 50%                    | LED Verde, sem alarme                         |
 | ⚠️ Alerta   | Água > 10cm ou chuva > 50%                  | LED Amarelo, buzzer intermitente              |
 | 🚨 Crítico  | Água > 20cm ou chuva > 80%                  | LED Vermelho, buzzer contínuo + alerta no LCD |
-
----
-
-## 🔌 Diagrama do Circuito
-
-📷 <img src="![Sistema de monitoriamento das enchentes](https://github.com/user-attachments/assets/b41648f0-4c75-4ef1-ac76-01afee6c7b7b)
-" alt="Circuito Arduino">
 
 ---
 
@@ -115,7 +112,7 @@ Desenvolver um sistema embarcado com Arduino que **monitore o nível de água** 
 ## 🎥 Vídeo Demonstrativo
 
 📽️ Demonstração prática do projeto:  
-🔗 [Clique aqui para assistir no YouTube](#)
+🔗 [Clique aqui para assistir no YouTube](https://youtu.be/WJYLNR3e1QA)
 
 ---
 

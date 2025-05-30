@@ -45,7 +45,8 @@ Desenvolver um sistema embarcado com Arduino que **monitore o nível de água** 
 
 ## 🔌 Diagrama do Circuito
 
-📷 <img src="file:///C:/Users/Brunno%20e%20Rafaell/Downloads/Sistema%20de%20monitoriamento%20das%20enchentes.png" alt="Circuito Arduino">
+📷 <img src="![Sistema de monitoriamento das enchentes](https://github.com/user-attachments/assets/b41648f0-4c75-4ef1-ac76-01afee6c7b7b)
+" alt="Circuito Arduino">
 
 ---
 

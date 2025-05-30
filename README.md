@@ -85,7 +85,6 @@ Desenvolver um sistema embarcado com Arduino que **monitore o nível de água** 
 
 >  O Arduino interpreta esse valor como porcentagem (via `map()`), então valores baixos no potenciômetro indicam chuva forte!
 
----
 
 ### 🔎 O Que Observar
 
